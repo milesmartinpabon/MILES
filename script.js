@@ -40,7 +40,12 @@ contactheading.textContent = "lets connect";
 projectsheading.textContent = "my projects";
 servicesheading.textContent = "services";
 
+heading.style.color = "purple";
+heading.style.backgroundColor = "yellow";
 
+contactHeading.style.color = "purple";
+projectHeading.style.color = "purple";
+servicesHeading.style.color = "purple";
 
 
 

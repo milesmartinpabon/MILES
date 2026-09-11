@@ -23,3 +23,11 @@ function mdas(num1, num2) {
     return `value (${num1},${num2} ) \nMul:${Mul} \nDiv: ${Div.toFixed(2)} \nAdd: ${Add} \nSub: ${Sub}`;
 }
 console.log(mdas(5, 3));
+
+
+const heading = document.querySelector("h1");
+console.log(heading);
+const contactheading = document.querySelector("#contact h2");
+console.log(contactheading);
+const servicesheading = document.querySelector("#services h2")
+console.log(servicesheading);

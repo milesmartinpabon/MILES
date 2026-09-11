@@ -131,13 +131,13 @@ form {
     }
 
     h1 {
-        front-size: 75px;
+        front-size : 75px;
         color: rgb(172, 21, 21);
 
     }
 
     nav {
-        front-size: 50px;
+        front-size : 50px;
         color: rgb(21, 172, 67);
 
     }
@@ -145,7 +145,7 @@ form {
 
 @media(max-width: 768px) {
     h2 {
-        front-size: 48px;
+        front-size : 48px;
         color: rgb(23, 11, 161);
 
     }

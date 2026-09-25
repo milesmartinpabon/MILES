@@ -1,14 +1,14 @@
 console.log("Hello World!");
-const Myname = "Princess Paclibar";
+const Myname = "miles martin G. pabon";
 console.log("name: " + Myname);
 let age = 21;
-let number = "09704945944";
+let number = "09686955500";
 console.log("Age: " + age)
 console.log("Number: " + number);
 
 
 
-const address = "Brgy 6, Estrella, Victorias City";
+const address = "Brgy 1 manapla negros occcidentall";
 console.log("Address: " + address);
 
 //functions

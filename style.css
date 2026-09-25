@@ -10,6 +10,7 @@ h2 {
 
 #projects {
     color: rgb(13, 99, 66);
+    background-color: aqua;
 }
 
 #services {
@@ -131,13 +132,13 @@ form {
     }
 
     h1 {
-        front-size : 75px;
+        front-size: 75px;
         color: rgb(172, 21, 21);
 
     }
 
     nav {
-        front-size : 50px;
+        front-size: 50px;
         color: rgb(21, 172, 67);
 
     }
@@ -145,30 +146,30 @@ form {
 
 @media(max-width: 768px) {
     h2 {
-        front-size : 48px;
+        front-size: 48px;
         color: rgb(23, 11, 161);
 
     }
 }
-nav a{
+
+nav a {
     transition: color 8.5s ease;
 }
-nav a:hover{
-    color:green;
-}
-button{
-    background-color: black;
-    color: white;
-    padding: 12px  ;
-    border: none;
-    border-radius: 10px;
-    transition:background-color 1s ease;
+
+nav a:hover {
+    color: green;
 }
 
-button:hover{
+button {
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 1s ease;
+}
+
+button:hover {
     background-color: pink;
     color: black;
 }
-
-
-

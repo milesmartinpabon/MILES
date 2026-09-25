@@ -11,6 +11,7 @@ h2 {
 #projects {
     color: rgb(13, 99, 66);
     background-color: rgb(9, 216, 216)";
+
 }
 
 #services {
@@ -101,6 +102,11 @@ main section {
     border: 2px solid black;
     padding: 20px
 }
+
+section[id="projects"] {
+    background-color: orange;
+}
+
 
 form {
     display: flex;

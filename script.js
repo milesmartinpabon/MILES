@@ -60,11 +60,11 @@ toggleButton.addEventListener("click", function () {
     isOff = !isOff;
 
     if (isOff) {
-        body.style.backgroundColor = "black";
+        body.style.backgroundColor = "green";
         body.style.color = "white";
 
     } else {
         body.style.backgroundColor = "white";
-        body.style.color = "black";
+        body.style.color = "green";
     }
 });
